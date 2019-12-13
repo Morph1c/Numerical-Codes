@@ -7,7 +7,7 @@
 * matriciale Ax = b
 ************************************************
 * Scritto da: Andrea Toccaceli, 
-* 12/12/2019(Ultima modifica)
+* 13/12/2019(Ultima modifica)
 */
 
 #include <stdlib.h>
